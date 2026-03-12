@@ -1,4 +1,5 @@
 ## Hello there!!! 👋
 
-- 🌱 Actualmente estudiando Desarrollo de Aplicaciones Web, trabajando y aprendiendo, poco a poco, Java, JavaScript, TypeScript, HTML, CSS, PHP y SQL.
+- 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Web.
+- 💻 Me encuentro realizando el periodo de prácticas (parte front-end) en la consultoría Sopra Steria, en Valencia. 
 
